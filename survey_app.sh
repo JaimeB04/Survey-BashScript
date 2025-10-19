@@ -212,9 +212,3 @@ view_survey() {
 }
 
 main_menu
-
-
-
-
-
-
