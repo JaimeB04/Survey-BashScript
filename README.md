@@ -12,7 +12,9 @@ and creation of personalized cvs files based on each user's response.
 
 ## Try it out!
 1. Clone this repository
-```bash git clone git@github.com:JaimeB04/Survey-BashScript.git```
+```bash 
+git clone git@github.com:JaimeB04/Survey-BashScript.git
+```
 
 2. Move into the project folder
 ```bash chmod +x survey_app.sh```
