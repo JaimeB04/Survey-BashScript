@@ -5,7 +5,7 @@
 USER_CREDENTIALS_FILE="user_credentials.csv"
 QUESTION_BANK_FILE="question_bank.csv"
 
-#The main manu function
+#Main menu function
 main_menu() {
 	while true
 	do
