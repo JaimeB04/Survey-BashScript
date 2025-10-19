@@ -12,8 +12,8 @@ and creation of personalized csv files based on each user's response.
 
 ## File Structure
 ### Surver-BashScript/
- |-- survey_app.sh          # Main Bash Script \n
- |-- question_bank.csv      # Contains survey questions \n
+ |-- survey_app.sh          # Main Bash Script ```\n```
+ |-- question_bank.csv      # Contains survey questions ``` \n```
  |-- user_credentials.csv   # Stores user info \n
  |-- README.md              # Description of the survery (You're reading it!) \n
 
