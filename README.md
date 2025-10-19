@@ -11,11 +11,11 @@ and creation of personalized cvs files based on each user's response.
 - Lightweight and works on any linux system
 
 ## File Structure
-# Surver-BashScript/
- |-- survey_app.sh          # Main Bash Script
- |-- question_bank.csv      # Contains survey questions
- |-- user_credentials.csv   # Stores user info
- |-- README.md              # Description of the survery (You're reading it!)
+### Surver-BashScript/
+ |-- survey_app.sh          # Main Bash Script \n
+ |-- question_bank.csv      # Contains survey questions \n
+ |-- user_credentials.csv   # Stores user info \n
+ |-- README.md              # Description of the survery (You're reading it!) \n
 
 ## Try it out!
 1. Clone this repository
