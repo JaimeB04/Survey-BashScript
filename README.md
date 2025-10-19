@@ -17,10 +17,12 @@ git clone git@github.com:JaimeB04/Survey-BashScript.git
 ```
 
 2. Move into the project folder
-```bash chmod +x survey_app.sh```
+```bash chmod +x survey_app.sh
+```
 
 3. Run it!
-```bash ./survey_app.sh```
+```bash ./survey_app.sh
+```
 
 ## File Structure
 
