@@ -10,5 +10,19 @@ and creation of personalized cvs files based on each user's response.
 - Supports multiple users partipating on the survey
 - Lightweight and works on any linux system
 
+## Run it!
+1. clone this repository
+```bash 
+git clone git@github.com:JaimeB04/Survey-BashScript.git```
+
+2. Move into the project folder
+```bash
+chmod +x survey_app.sh```
+
+3. Run it!
+```bash
+./survey_app.sh```
+
+## File Structure
 
 
